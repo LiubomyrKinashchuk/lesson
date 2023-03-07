@@ -1,0 +1,53 @@
+@import url(/lesson4/styles/freshman.css);
+
+.arsenal {
+  font-family: freshman;
+  font-size: 150px;
+  text-align: center;
+  line-height: 400px;
+  color: white;
+  float: left;
+  width: 271px;
+  height: 400px;
+  background-color: aqua;
+}
+#ars {
+  margin-top: 100px;
+
+  width: 100%;
+}
+#aaa {
+  background: #f10038;
+  background: -webkit-linear-gradient(to top, #fc330f, #ff285a);
+  background: linear-gradient(to top, #fa2d09, #fd0d45);
+}
+#rrr {
+  background: #fc5c7d;
+  background: -webkit-linear-gradient(to top, #6a82fb, #fc5c7d);
+  background: linear-gradient(to top, #6a82fb, #fc5c7d);
+}
+#sss {
+  background: #f79d00;
+  background: -webkit-linear-gradient(to top, #64f38c, #f79d00);
+  background: linear-gradient(to top, #64f38c, #f79d00);
+}
+#eee {
+  background: #5a3f37;
+  background: -webkit-linear-gradient(to top, #2c7744, #5a3f37);
+  background: linear-gradient(to top, #2c7744, #5a3f37);
+}
+#nnn {
+  background: #fbd3e9;
+  background: -webkit-linear-gradient(to top, #bb377d, #fbd3e9);
+  background: linear-gradient(to top, #bb377d, #fbd3e9);
+}
+#aaa2 {
+  background: #333333;
+  background: -webkit-linear-gradient(to top, #dd1818, #333333);
+  background: linear-gradient(to bottom, #dd1818, #333333);
+}
+#lll {
+  background: #ba8b02;
+  background: -webkit-linear-gradient(to top, #181818, #ba8b02);
+  background: linear-gradient(to top, #181818, #ba8b02);
+}
